@@ -12,3 +12,7 @@ Please do not heistate to get in touch if you need any support.
 
 - [Privacy Policy](https://josholdham.github.io/themuck/privacy)
 - [Terms and Conditions](https://josholdham.github.io/themuck/terms)
+
+**Credits**
+
+App Icon based on an icon by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/)
